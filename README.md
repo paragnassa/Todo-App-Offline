@@ -42,7 +42,7 @@ An ofline Todo App.
  **PARAG NASSA**
  **101983021**
 
-- Github: [@amananku26](https://github.com/paragnassa)
+- Github: [@paragnassa](https://github.com/paragnassa)
 - Email: (paragnassa78@gmail.com)
 
 
