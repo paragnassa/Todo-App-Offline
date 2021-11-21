@@ -1,5 +1,5 @@
 #### Ofline-Todo-App
-An ofline Todo App for First Round of Nation With Namo
+An ofline Todo App.
 
 ##### Presentaion Of The Project
 
@@ -39,11 +39,10 @@ An ofline Todo App for First Round of Nation With Namo
 
 
 
- **Aman Anku**
+ **PARAG NASSA**
+ **101983021**
 
-- Github: [@amananku26](https://github.com/amananku26)
-- Twitter: [@amananku26](https://twitter.com/amananku26)
-- Linkedin: [Aman Anku](https://www.linkedin.com/in/amananku26)
-- Email: (amankumaranku@gmail.com)
+- Github: [@amananku26](https://github.com/paragnassa)
+- Email: (paragnassa78@gmail.com)
 
 
